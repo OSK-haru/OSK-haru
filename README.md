@@ -38,8 +38,5 @@
 
 ## 📌 Links
 - GitHub: https://github.com/<your-username>
-- (任意) Portfolio / Blog: <link>
-- (任意) Contact: <email>
-
 ---
 
