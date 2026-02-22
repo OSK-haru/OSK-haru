@@ -1,13 +1,13 @@
 
-**茨城工業高等専門学校 / 17歳**
+**茨城工業高等専門学校 / age:17**
 
-## hope:**純粋数学を応用数学にしたい。おいしいご飯が食べたい。**
+## hope:**I want to turn pure mathematics into applied mathematics. I want to eat delicious food.**
 
 ---
 
 ## Now
-- **層論（Sheaf Theory）関係のアプリ**を模索中  
-  数学の概念を「触って理解できる」形に落とし込むのが目標です。
+-**Looking for an app related to Sheaf Theory**
+
 
 ---
 
@@ -18,23 +18,7 @@
 
 ---
 
-## 🧰 Skills
-**Languages**
-- C / C++
-- Python
-- Rust
-- HTML / CSS / JavaScript / TypeScript
-
-**Frontend**
-- React
-
-**Tools**
-- Hydra
-- Claude Code
-- Figma
-- Node.js
-
----
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,ts,python,rust,flutter,react,mysql,linux,tauri,obsidian,nodejs,)](https://skillicons.dev)
 
 ## 📌 Links
 - GitHub: https://github.com/<your-username>
