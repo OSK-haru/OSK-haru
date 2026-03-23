@@ -1,7 +1,7 @@
 
 **茨城工業高等専門学校 / age:17**
 
-## hope:**I want to turn pure mathematics into applied mathematics. I want to eat delicious food.**
+## I want to turn pure mathematics into applied mathematics. I want to eat delicious food.**
 
 ---
 
